@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite:"
+authors:
+  - family-names: YourLastName
+    given-names: YourFirstName
+title: "Title of Your Article"
+doi: "10.xxxx/your.doi"
